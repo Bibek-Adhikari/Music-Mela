@@ -3,4 +3,9 @@
 ![Screenshot_20251202_212024_Expo Go](https://github.com/user-attachments/assets/eed7a5e2-c83c-4fb6-b64e-3fe688426c43)
 ![Screenshot_20251202_212101_Expo Go](https://github.com/user-attachments/assets/faa50df8-f0e4-49e7-b152-6ea2972f67f6),
 ![Screenshot_20251202_212218_Expo Go](https://github.com/user-attachments/assets/47068714-5cae-4cb8-af69-1b131f0686f5),
-![Screenshot_20251202_212240_Expo Go](https://github.com/user-attachments/assets/86d17776-2c8d-417a-9ca5-a713253fdafd)
+![Screenshot_20251202_212240_Expo Go](https://github.com/user-attachments/assets/86d17776-2c8d-417a-9ca5-a713253fdafd),
+
+
+https://github.com/user-attachments/assets/739bdc6a-6985-46cf-bf74-127f0c5d8d07
+
+
