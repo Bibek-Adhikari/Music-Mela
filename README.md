@@ -1,6 +1,6 @@
-![Screenshot_20251202_211938_Expo Go](https://github.com/user-attachments/assets/65cb51c0-15d9-4940-8df0-2372fd20ff30)
-![Screenshot_20251202_212004_Expo Go](https://github.com/user-attachments/assets/d1fb40a4-63ec-4b3f-8ae4-5cd1affa4e46)
+![Screenshot_20251202_211938_Expo Go](https://github.com/user-attachments/assets/65cb51c0-15d9-4940-8df0-2372fd20ff30),
+![Screenshot_20251202_212004_Expo Go](https://github.com/user-attachments/assets/d1fb40a4-63ec-4b3f-8ae4-5cd1affa4e46),
 ![Screenshot_20251202_212024_Expo Go](https://github.com/user-attachments/assets/eed7a5e2-c83c-4fb6-b64e-3fe688426c43)
-![Screenshot_20251202_212101_Expo Go](https://github.com/user-attachments/assets/faa50df8-f0e4-49e7-b152-6ea2972f67f6)
-![Screenshot_20251202_212218_Expo Go](https://github.com/user-attachments/assets/47068714-5cae-4cb8-af69-1b131f0686f5)
+![Screenshot_20251202_212101_Expo Go](https://github.com/user-attachments/assets/faa50df8-f0e4-49e7-b152-6ea2972f67f6),
+![Screenshot_20251202_212218_Expo Go](https://github.com/user-attachments/assets/47068714-5cae-4cb8-af69-1b131f0686f5),
 ![Screenshot_20251202_212240_Expo Go](https://github.com/user-attachments/assets/86d17776-2c8d-417a-9ca5-a713253fdafd)
